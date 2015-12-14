@@ -21,7 +21,7 @@ Podemos usar as classes  de outros pacotes por dois métodos:
 import java.util.HashMap;	//Está ok
 import java.util.*;	//Está ok
 import java.util.HashMap.*; // Compila normalmente, mas o HashMap não é importado.
-import java.util.hashMap; // Não compila, para import a regra de case sensitive é válida.
+//import java.util.hashMap; // Não compila, para import a regra de case sensitive é válida.
 
 /*
 Por padrão o pacote JAVA.LANG já é importado, O ÚNICO pacote que é importado automaticamente

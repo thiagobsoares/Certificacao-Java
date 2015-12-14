@@ -12,5 +12,5 @@ public class Sobrecarga_1 {
         System.out.println(15.0);
     }
     static int b(int i) { return i; } 
-    static double b(int i) { return i; } 
+//   static double b(int i) { return i; } 
 }
