@@ -3,7 +3,6 @@ Para colocar uma classe em um pacote, segue o exemplo,
 Cada . no package, significa um  novo diretório
 
 */
-
 package br.com.soares.thiago.topico_package;
 
 /*
@@ -26,4 +25,7 @@ import java.util.HashMap.*; // Compila normalmente, mas o HashMap não é import
 /*
 Por padrão o pacote JAVA.LANG já é importado, O ÚNICO pacote que é importado automaticamente
 */
+public class ImportandoClasses {
+	
+}
 
